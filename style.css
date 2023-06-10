@@ -84,7 +84,7 @@ body {
     width: 180px;
     height: 100px;
     position: absolute;
-    top: 200px;
+    top: 40%;
     left: 10%;
     background: #264653;
     transform-origin: right bottom;
