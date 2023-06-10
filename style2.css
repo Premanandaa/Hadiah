@@ -342,9 +342,3 @@ body {
     transform: translate(-36vmin, 1.1vmin) rotateY(-80deg) rotateX(35deg);
   }
 }
-.text {
-  position: relative;
-  margin-bottom: 40%;
-  margin-right: -14%;
-  color: #712291;
-}
