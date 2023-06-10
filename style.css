@@ -85,7 +85,7 @@ body {
     height: 100px;
     position: absolute;
     top: 50%;
-    left: 10%;
+    left: 5%;
     background: #264653;
     transform-origin: right bottom;
     transition: 1s;
