@@ -21,7 +21,7 @@ body {
 }
 
 .greetings>span {
-    animation: glow 3s ease-in-out;
+    animation: glow 3s ease-in-out infinite;
 }
 
 @keyframes glow {
@@ -85,8 +85,8 @@ body {
     width: 180px;
     height: 100px;
     position: absolute;
-    top: 60%;
-    left: 2%;
+    top: 50%;
+    left: 1%;
     background: #264653;
     transform-origin: right bottom;
     transition: 1s;
@@ -133,7 +133,7 @@ body {
 .lope {
     font-size: 280%;
     font-weight: 900;
-    margin-top: 55Vh;
+    margin-top: 45Vh;
 }
 
 .lope>span {
